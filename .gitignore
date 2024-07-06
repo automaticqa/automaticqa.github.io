@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-metadata
+.bundle/
+.DS_Store
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+misc.xml
+modules.xml
+vcs.xml
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
