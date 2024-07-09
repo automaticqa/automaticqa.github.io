@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+  color: #000000;
+}
+
+.normal-link {
+  font-weight: normal;
+}
+
+body {
+    background: linear-gradient(to bottom, #444969, #333857);
+}
+
+.custom-class {
+  font-size: 20px;
+  margin: 10px 0;
+}
