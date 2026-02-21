@@ -4,7 +4,7 @@ I am an ISTQB Certified Tester with 7 years of experience as a Software Test Aut
 
 
 #### WORK EXPERIENCE
-**REWE International – IT Development Expert, Vienna (_December 2022 — present_)**
+**REWE International – IT Development Expert, Vienna (_December 2024 — present_)**
 <br> As an Expert Software Developer in Automation, I built a native Android UI test framework for two Android applications: a 10-flavor White Label Solution app (Billa + Penny) with a reusable screen/Semantics DSL, and the Jö Bonus Club app. I designed and set up parameterized GitLab CI and Docker pipelines, introducing variables for test suite selection (Smoke, Sanity, Regression), feature targeting, emulator count, and retry limits to handle flaky tests. I enabled parallel execution on two emulators and implemented a horizontally scalable approach to add more devices when needed, including standardized AVD provisioning and automated artifact publishing (logs, screenshots, videos, and Allure reports). In parallel, I expanded mobile UI coverage with Appium alongside the native E2E/UI testing frameworks, and I also write backend REST API tests. Additionally, I author documentation and onboarding guides, and define coding standards to ensure consistency across the test automation codebase.
 
 **Software Developer Engineer in Test at Zattoo GmbH, Berlin (_March 2022 — October 2024_)**
