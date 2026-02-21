@@ -1,6 +1,6 @@
 ### Software Engineer in Test | [<u>ISTQB® Certified Tester</u>](https://skillshub.isqi.org/9f4c7f4f-6e3e-4f8c-8229-ea0a9ce79eef?key=231ef13b5c0282b91213530b5f42bcba50835635e7c8a6a8a4f298b22c696374#acc.PgmzVvYL)
 
-I am an ISTQB Certified Tester with 7 years of experience as a Software Test Automation Engineer, dedicated to ensuring software quality and functionality. I am skilled in Java/Kotlin programming, Android SDK, Espresso, Appium, Selenium, Gitlab-CI, Jenkins, Docker, Postman, Rest Assured, SQL, and other software development and testing tools. I have experience mentoring and training interns, and delivering workshops. I am eager to continue developing my expertise in test automation and expanding my technical skills in Quality Assurance.
+I am an ISTQB Certified Tester with 8 years of experience as a Software Test Automation Engineer, dedicated to ensuring software quality and functionality. I am skilled in Java/Kotlin programming, Android SDK, Espresso, Appium, Selenium, Gitlab-CI, Jenkins, Docker, Postman, Rest Assured, SQL, and other software development and testing tools. I have experience mentoring and training interns, and delivering workshops. I am eager to continue developing my expertise in test automation and expanding my technical skills in Quality Assurance.
 
 
 #### WORK EXPERIENCE
@@ -47,3 +47,4 @@ and communicating with Clients and Teammates.
 
 
 _References are available upon request from any of my Employers_
+
