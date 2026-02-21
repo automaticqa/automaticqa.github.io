@@ -1,10 +1,13 @@
-### Software Engineer in Test | [<u>ISTQB® Certified Tester</u>](https://app.skillsclub.com/credential/62359-3b2ce1a143c798c85162418fdcf2905fd5178b3e1747dc42265c1705ad203b65)
+### Software Engineer in Test | [<u>ISTQB® Certified Tester</u>](https://skillshub.isqi.org/9f4c7f4f-6e3e-4f8c-8229-ea0a9ce79eef?key=231ef13b5c0282b91213530b5f42bcba50835635e7c8a6a8a4f298b22c696374#acc.PgmzVvYL)
 
-I am an ISTQB Certified Tester with 7 years of experience as a Software Test Automation Engineer, dedicated to ensuring software quality and functionality. I am skilled in Java/Kotlin programming, Android SDK, Espresso, Appium, Selenium, Gitlab-CI, Jenkins, Docker, Postman, Rest Assured, SQL, and other software development and testing tools. I have experience mentoring and training interns, and delivering workshops. I am eager to continue developing my expertise in test automation and expanding my technical skills in Quality Assurance.
+I am an ISTQB Certified Tester with 8 years of experience as a Software Test Automation Engineer, dedicated to ensuring software quality and functionality. I am skilled in Java/Kotlin programming, Android SDK, Espresso, Appium, Selenium, Gitlab-CI, Jenkins, Docker, Postman, Rest Assured, SQL, and other software development and testing tools. I have experience mentoring and training interns, and delivering workshops. I am eager to continue developing my expertise in test automation and expanding my technical skills in Quality Assurance.
 
 
 #### WORK EXPERIENCE
-**Software Developer Engineer in Test at Zattoo GmbH, Berlin (_March 2022 — Present_)**
+**REWE International – IT Development Expert, Vienna (_December 2024 — present_)**
+<br> As an Expert Software Developer in Automation, I built a native Android UI test framework for two Android applications: a 10-flavor White Label Solution app (Billa + Penny) with a reusable screen/Semantics DSL, and the Jö Bonus Club app. I designed and set up parameterized GitLab CI and Docker pipelines, introducing variables for test suite selection (Smoke, Sanity, Regression), feature targeting, emulator count, and retry limits to handle flaky tests. I enabled parallel execution on two emulators and implemented a horizontally scalable approach to add more devices when needed, including standardized AVD provisioning and automated artifact publishing (logs, screenshots, videos, and Allure reports). In parallel, I expanded mobile UI coverage with Appium alongside the native E2E/UI testing frameworks, and I also write backend REST API tests. Additionally, I author documentation and onboarding guides, and define coding standards to ensure consistency across the test automation codebase.
+
+**Software Developer Engineer in Test at Zattoo GmbH, Berlin (_March 2022 — October 2024_)**
 <br> As the sole Software Developer Engineer in Test at Zattoo GmbH, I have been responsible
 for designing and implementing the automated test infrastructure from scratch for
 the Android application for both Android TV and mobile devices. I implemented an
@@ -44,3 +47,4 @@ and communicating with Clients and Teammates.
 
 
 _References are available upon request from any of my Employers_
+
